@@ -79,7 +79,7 @@ We may use this data to:
 
 #### Other data that may be collected by third parties 👥
 
-We use [Cloudflare Pages](https://pages.cloudflare.com) and [Cloudflare](https://cloudflare.com) and to host the site, and while we don't think they collect any data and don't intentionally collect any data using their service, [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/) might apply, and you are agreeing to it by using the site.
+We use [Netlify](https://netlify.com) to host the site and nd [Cloudflare](https://cloudflare.com) for DNS, and while we don't think they collect any data and we don't intentionally collect any data using their service, [Netlify's privacy policy](https://netlify.com/privacy) and [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/) might apply, and you are agreeing to both by using the site.
 
 ### Data we do not store ❎
 
