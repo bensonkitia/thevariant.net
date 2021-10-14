@@ -8,8 +8,7 @@
       <a href="{{ "/categories/" | relLangURL }}{{ $value | urlize }}">{{ . }}</a>
     {{- end }}
   </strong>
-  {{ with .WordCount }}<span> • {{ . }} words</span>{{ end }}
-  {{ with .ReadingTime}}<span> • {{ . }} minute read</span>{{ end }}
+  {{ with .Params.author }}<span> • by {{ . }}</span>{{ end }}
   {{ with .Params.tags }}
     <div>
       <span>Tags:</span>
