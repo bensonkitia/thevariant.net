@@ -36,5 +36,5 @@ params:
     - name: Twitter
       url: https://twitter.com/TheVariantnet
     - name: RSS
-      url: /about#RSS
+      url: /about/#RSS
   subtitle: "Tech news from an alternate timeline."
