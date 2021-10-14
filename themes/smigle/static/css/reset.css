@@ -4,7 +4,7 @@ html {
 :root {
   --bgcolor: white;
   --fontcolor: #444;
-  --linkcolor: rgb(60, 60, 253);
+  --linkcolor: #9c33ff;
   --visitedcolor: #9c33ff;
   --precolor: #fff;
   --prebgcolor: #000;
@@ -13,7 +13,7 @@ html {
   :root {
     --bgcolor: black;
     --fontcolor: white;
-    --linkcolor: rgb(60, 60, 253);
+    --linkcolor: #9c33ff;
     --visitedcolor: #9c33ff;
     --precolor: #fff;
     --prebgcolor: #383838;
