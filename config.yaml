@@ -36,7 +36,7 @@ params:
     - name: Twitter
       url: https://twitter.com/TheVariantnet
     - name: RSS
-      url: /about/#RSS
+      url: /about#rss
   subtitle: "Tech news from an alternate timeline."
 author:
   name: Benson Kitia
