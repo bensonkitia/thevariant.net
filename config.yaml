@@ -38,3 +38,7 @@ params:
     - name: RSS
       url: /about/#RSS
   subtitle: "Tech news from an alternate timeline."
+author:
+  name: Benson Kitia
+copyright: Copyright © 2021 Benson Kitia. All rights reserved.
+languageCode: en-us

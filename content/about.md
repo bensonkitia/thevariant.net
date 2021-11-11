@@ -7,7 +7,7 @@ The Variant is a satirical tech news publication making fun of everyone in Silic
 
 I believe strongly in the principles of [open-source software](https://opensource.dev/). thevariant.net is built on open-source code and technologies and is entirely open-source itself, meaning anyone can view [this site’s code](https://github.com/wwwaffles/thevariant.net) on Github and use the code however they please with little restriction.
 
-## Subscribe
+## Follow
 
 ### Twitter
 
@@ -15,7 +15,9 @@ The best way to make sure that you never miss an issue is to [follow The Variant
 
 ### RSS
 
-You'll be able to follow an RSS feed for the The Variant in the near future.
+You can add The Variant's RSS Feed to your RSS reader by [clicking here](/index.xml)
+
+or manually adding the link: <https://thevariant.net/index.xml>
 
 ## Contact
 
