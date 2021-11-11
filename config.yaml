@@ -17,14 +17,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 3
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 4
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 5
+      weight: 4
 params:
   abbrDateFmt: "Jan 2"
   author: "Benson Kitia"
