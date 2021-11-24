@@ -4,17 +4,17 @@ html {
 :root {
   --bgcolor: white;
   --fontcolor: #444;
-  --linkcolor: #9c33ff;
-  --visitedcolor: #9c33ff;
+  --linkcolor: #af5cf7;
+  --visitedcolor: #af5cf7;
   --precolor: #fff;
   --prebgcolor: #000;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bgcolor: black;
+    --bgcolor: #444;
     --fontcolor: white;
-    --linkcolor: #9c33ff;
-    --visitedcolor: #9c33ff;
+    --linkcolor: #af5cf7;
+    --visitedcolor: #af5cf7;
     --precolor: #fff;
     --prebgcolor: #383838;
   }
